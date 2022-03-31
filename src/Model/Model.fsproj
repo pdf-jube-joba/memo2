@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Setting.fs" />
+    <Compile Include="Resource.fs" />
+    <Compile Include="Word.fs" />
+    <Compile Include="Article.fs" />
+  </ItemGroup>
+</Project>
